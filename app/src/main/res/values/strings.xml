@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">JustJava</string>
+    <string name="name_hint">Name</string>
+    <string name="top">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="choco">Chocolate</string>
+    <string name="quantity">Quantity : </string>
+    <string name="order">order</string>
+    <string name="incr" translatable="false">+</string>
+    <string name="dcr" translatable="false">-</string>
+    <string name="ini_quan">2</string>
+    <string name="toast_overflow" translatable="false">Sorry, You cannot order more than 100 coffees.</string>
+    <string name="toast_underflow" translatable="false">Sorry, You cannot order less than 1 coffee.</string>
+    <string name="coffe_ord_sum">Just Java Order Summary <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="sum_name">Name : <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="sum_wc_q">Wants Whipped Cream ? <xliff:g id="addWhippedCream" example="true">%b</xliff:g></string>
+    <string name="sum_c_q">Wants Chocolate ? <xliff:g id="addChocolate" example="true">%b</xliff:g></string>
+    <string name="total">Total : <xliff:g id="price" example="$10">%s</xliff:g></string>
+    <string name="ty">Thank You</string>
+    <string name="quantityq">Quantity :  <xliff:g id="quantity" example="2">%d</xliff:g></string>
+</resources>
+
