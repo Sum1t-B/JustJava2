@@ -124,6 +124,7 @@ public class MainActivity extends AppCompatActivity {
     private void calculatePrice()
     {
        price=quantity* priceOfOne();
+        return ;
     }
 
     private void Ck()
